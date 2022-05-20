@@ -1,0 +1,12 @@
+77.4d0		    T [K]
+0.709275d0      P [bar]
+10.d0		    H []
+94.45d0         eps_ff [K]
+3.575d0	        sigma_ff [Å]
+53.22d0         eps_sf [K]
+3.494d0		    sigma_sf [Å]
+0.114d0         rho_s [Å⁻³] 
+3.35d0          Delta [Å]
+
+1.d-2			dz
+1.d-3           tol                     
