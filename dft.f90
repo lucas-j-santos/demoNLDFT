@@ -280,7 +280,7 @@ module dft
 
 end module dft
 !
-! \\ Programa principal \\
+! \\ Programa principal \\ 
 !
 program main_dft
     use dft
